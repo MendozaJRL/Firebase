@@ -11,7 +11,7 @@ const firebaseConfig = {
   projectId: "luminaflora-eef53",
   storageBucket: "luminaflora-eef53.firebasestorage.app",
   messagingSenderId: "686428803989",
-  appId: "1:686428803989:web:fa55795ce43faf2b065c9c",
+  appId: "1:686428803989:android:691cda12d209933a065c9c",
   measurementId: "G-3HTPFD2GDF",
 };
 
